@@ -1,0 +1,10 @@
+inherited frmMain_Macintosh: TfrmMain_Macintosh
+  DesignerMasterStyle = 1
+  inherited Label1: TLabel
+    Position.X = 144.000000000000000000
+  end
+  inherited Memo1: TMemo
+    Viewport.Width = 321.000000000000000000
+    Viewport.Height = 345.000000000000000000
+  end
+end
